@@ -1,0 +1,46 @@
+/* 
+font-family: 'Roboto', sans-serif; 
+
+border color #bdc3c7
+date color #3498db
+h2 color #2c3e50
+*/
+
+body{
+    border: 20px solid #bdc3c7;
+    padding: 20px;
+
+    max-width: 700 px;
+    width: 80%;
+
+    margin: 20px auto;
+}
+p{
+    font-family: 'Roboto', sans-serif; 
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2c3e50;
+    font-size: 2rem;
+ }
+.quote{
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px; 
+}
+.date{
+    font-family: 'Roboto', sans-serif; 
+    color: #3498db;
+    letter-spacing: 0.25rem;
+}
+.post{
+    margin-bottom: 20px;
+}
+hr {
+    overflow: visible;
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+
+}
